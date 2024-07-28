@@ -588,30 +588,30 @@ section
     width: 85%;
 }
 
-.skill .skill-content .right .bootstrap::before
+.skill .skill-content .right .python::before
 {
-    width: 75%;
+    width: 85%;
 }
 
 .skill .skill-content .right .java::before
 {
-    width: 80%;
+    width: 65%;
 }
 
-.skill .skill-content .right .cpp::before
+/* .skill .skill-content .right .cpp::before
 {
     width: 70%;
-}
+} */
 
 .skill .skill-content .right .javascript::before
 {
     width: 45%;
 }
 
-.skill .skill-content .right .php::before
+/* .skill .skill-content .right .php::before
 {
     width: 30%;
-}
+} */
 
 
 .skill .skill-content .right .bars:hover
