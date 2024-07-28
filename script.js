@@ -14,7 +14,7 @@ $(document).ready(function(){
 
 
     var typed = new Typed(".typing",{
-        strings : ["Web Developer","Designer","NFT Artist","Freelancer","Student","Learner"],
+        strings : ["Web Developer","Designer","Freelancer","Student","Learner"],
         typeSpeed : 80,
         backSpeed: 40,
         loop: true 
